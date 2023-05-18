@@ -1,5 +1,9 @@
 # DWScraperTTS
 
+##basic scripts that use beautiful soup to parse a static website
+
+###steps
+
 mkdir Articles
 mkdir Outputs
 mkdir Articles/completed
@@ -17,9 +21,3 @@ follow prompts
 edit the texts that appear in Articles/scripted
 
 python scripts/textToSpeech.py
-
-
-????
-
-
-profit
